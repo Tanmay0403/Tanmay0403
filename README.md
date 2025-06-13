@@ -10,7 +10,7 @@
 - 🎓 MCA Graduate | Pune University  
 - 🔍 Exploring the worlds of **React.js**, **Redux**, **Odoo 18**, and **Java Full Stack**  
 - 🛠️ I love building apps that solve real-world problems  
-- ✨ Current Focus: **Custom Odoo modules**, **React-based UI**, and **Backend logic**  
+- ✨ Current Focus: **Odoo modules**, **React-based UI**, and **Backend logic**  
 - 🌐 Based in **Dombivli, India**
 
 ---
@@ -39,8 +39,8 @@
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tanmaychachad@gmail.com.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanmay-chachad-04429b1b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Optional GitHub link -->
   <a href="https://github.com/Tanmay0403"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
